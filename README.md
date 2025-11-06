@@ -3,7 +3,7 @@
 ## 🧠 Overview  
 This dashboard was developed to provide a **comprehensive, single-page view** of consumer financial complaints across products, issues, companies, regions, submission methods, and response performance. It was designed to help stakeholders uncover **where complaints are concentrated**, **why they occur**, and **how to improve service delivery and regulatory compliance**.
 
-### Interactive Dashboard Link: [Insert link here]
+### Interactive Dashboard Link: [https://shorturl.at/R6OHu]
 
 ---
 
