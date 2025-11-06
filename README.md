@@ -88,7 +88,7 @@ Spot geographic and organizational patterns in complaint volume to guide oversig
 - Use regional insights to inform outreach and education campaigns
 
 ---
-
+Dashboard Overview 
 ![Dashboard](https://github.com/Haruharun/Consumer-Financial-Complaints-Analysis-/blob/87c4c3f5108ad07bb4b0f141788cfa3df2c81cc7/Screenshot%202025-10-22%20105129.png)
 
 Data model 
