@@ -91,7 +91,7 @@ Spot geographic and organizational patterns in complaint volume to guide oversig
 
 ![Dashboard](https://github.com/Haruharun/Consumer-Financial-Complaints-Analysis-/blob/87c4c3f5108ad07bb4b0f141788cfa3df2c81cc7/Screenshot%202025-10-22%20105129.png)
 
-##Data model
+Data model
 ![Data model](https://github.com/Haruharun/Consumer-Financial-Complaints-Analysis-/blob/ea850a5034f5b722e150ea8ef55a1a5d561c4c65/Screenshot%202025-11-06%20163051.png)
 
 
